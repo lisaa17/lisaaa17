@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=900&color=FF79C6&center=true&vCenter=true&width=600&lines=%3E+welcome+to+my+cyber+lab;%3E+explore+%E2%80%A2+build+%E2%80%A2+secure;%3E+small+steps%2C+big+dreams+%E2%99%A1" alt="Cyber lab terminal animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,40:17102D,75:702050,100:FF4FA3&height=220&section=header&text=LISA%27S%20CYBER%20LAB&fontSize=38&fontColor=FFD6F2&fontAlignY=38&desc=CURIOUS%20MIND%20%7C%20CYBER%20SECURITY%20%7C%20SDR&descAlignY=58&descSize=13" width="100%" alt="Lisa's Cyber Lab"/>
 
 </div>
 
