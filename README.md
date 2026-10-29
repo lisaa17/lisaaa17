@@ -53,74 +53,72 @@ I'm learning through hands-on experiments, academic research, and practical proj
 
 > `01000011 01110101 01110010 01101001 01101111 01110101 01110011` — forever learning. ♡
 
-## `~/featured-projects` ✦
-
-## `~/featured-projects` <sub>✦ selected experiments</sub>
+## <img src="https://img.shields.io/badge/♥-FF4FA3?style=flat-square" height="20" /> `~/featured-projects` <img src="https://img.shields.io/badge/✦-C084FC?style=flat-square" height="20" /> <sub>selected experiments</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>📡 Ji-Tu / SIGINT-SDR</h3>
+<h3>💗 📡 Ji-Tu / SIGINT-SDR</h3>
 
-<sub>WIRELESS SIGNAL ANALYSIS</sub>
+<img src="https://img.shields.io/badge/WIRELESS_SIGNAL_ANALYSIS-FF4FA3?style=flat-square&labelColor=171020" />
 
 Exploring an SDR-based testbed for monitoring and analyzing wireless signal characteristics using sensor agents and a centralized dashboard.
 
-![SDR](https://img.shields.io/badge/SDR-8B5CF6?style=flat-square)
-![RTL-SDR](https://img.shields.io/badge/RTL--SDR-111426?style=flat-square&logo=radio&logoColor=FF8BCB)
-![HackRF](https://img.shields.io/badge/HackRF-111426?style=flat-square&logoColor=FF8BCB)
+![SDR](https://img.shields.io/badge/SDR-FF4FA3?style=flat-square&labelColor=171020)
+![RTL-SDR](https://img.shields.io/badge/RTL--SDR-302044?style=flat-square&logoColor=FF8BCB)
+![HackRF](https://img.shields.io/badge/HackRF-302044?style=flat-square&logoColor=FF8BCB)
 
 **Status:** Research / Testbed Development
 
-[↗ Explore repository](https://github.com/milisdad/Ji-Tu)
+[💗 Explore repository](https://github.com/milisdad/Ji-Tu)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🐝 OpenCanary Honeypot</h3>
+<h3>💗 🐝 OpenCanary Honeypot</h3>
 
-<sub>SECURITY MONITORING</sub>
+<img src="https://img.shields.io/badge/SECURITY_MONITORING-FF4FA3?style=flat-square&labelColor=171020" />
 
 Developing a honeypot environment to observe connection activity, collect security logs, and prepare data for analysis and visualization.
 
-![OpenCanary](https://img.shields.io/badge/OpenCanary-8B5CF6?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-111426?style=flat-square&logo=linux&logoColor=FF8BCB)
-![Monitoring](https://img.shields.io/badge/Log_Monitoring-111426?style=flat-square&logo=grafana&logoColor=FF8BCB)
+![OpenCanary](https://img.shields.io/badge/OpenCanary-FF4FA3?style=flat-square&labelColor=171020)
+![Linux](https://img.shields.io/badge/Linux-302044?style=flat-square&logo=linux&logoColor=FF8BCB)
+![Monitoring](https://img.shields.io/badge/Log_Monitoring-302044?style=flat-square&logo=grafana&logoColor=FF8BCB)
 
 **Status:** Development / Monitoring
 
-[↗ Explore repository](https://github.com/lisaa17/honeypot-opencanary)
+[💗 Explore repository](https://github.com/lisaa17/honeypot-opencanary)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🦆 WiPiDuck-NG</h3>
+<h3>💗 🦆 WiPiDuck-NG</h3>
 
-<sub>WIRELESS SECURITY EXPERIMENT</sub>
+<img src="https://img.shields.io/badge/WIRELESS_SECURITY_EXPERIMENT-FF4FA3?style=flat-square&labelColor=171020" />
 
 A Raspberry Pi Pico W adaptation explored as a hands-on learning project in wireless security and automation concepts.
 
-![Pico W](https://img.shields.io/badge/Raspberry_Pi_Pico_W-8B5CF6?style=flat-square)
-![Python](https://img.shields.io/badge/Python-111426?style=flat-square&logo=python&logoColor=FF8BCB)
+![Pico W](https://img.shields.io/badge/Pico_W-FF4FA3?style=flat-square&labelColor=171020)
+![Python](https://img.shields.io/badge/Python-302044?style=flat-square&logo=python&logoColor=FF8BCB)
 
 **Status:** Experimental Project
 
-[↗ Explore repository](https://github.com/orangmiliter/WipiDuck-NG)
+[💗 Explore repository](https://github.com/orangmiliter/WipiDuck-NG)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🔎 OSINT Research</h3>
+<h3>💗 🔎 OSINT Research</h3>
 
-<sub>OPEN-SOURCE INTELLIGENCE</sub>
+<img src="https://img.shields.io/badge/OPEN_SOURCE_INTELLIGENCE-FF4FA3?style=flat-square&labelColor=171020" />
 
 Exploring publicly available information, research workflows, and investigation tools for digital analysis.
 
-![OSINT](https://img.shields.io/badge/OSINT-8B5CF6?style=flat-square)
-![Research](https://img.shields.io/badge/Research-111426?style=flat-square&logo=bookstack&logoColor=FF8BCB)
+![OSINT](https://img.shields.io/badge/OSINT-FF4FA3?style=flat-square&labelColor=171020)
+![Research](https://img.shields.io/badge/Research-302044?style=flat-square&logo=bookstack&logoColor=FF8BCB)
 
 **Status:** Learning & Exploration
 
@@ -132,7 +130,7 @@ Exploring publicly available information, research workflows, and investigation 
 
 <div align="center">
 
-<sub>✦ Learning by building · Documenting the journey · Growing responsibly ♡</sub>
+<img src="https://img.shields.io/badge/♥-FF4FA3?style=flat-square" /> **Learning** · **Building** · **Securing the Digital Future** <img src="https://img.shields.io/badge/♥-C084FC?style=flat-square" />
 
 </div>
 
