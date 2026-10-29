@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:080B18,45:25103D,75:8B1D70,100:FF5CB8&text=LISA'S%20CYBER%20LAB&fontSize=38&fontColor=FFD6F2&fontAlignY=38&desc=curiosity%20%2B%20code%20%2B%20cybersecurity%20%E2%99%A1&descAlignY=59&descSize=14" width="100%" alt="Lisa's Cyber Lab"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:080B18,40:17102D,70:5B174F,100:FF4FA3&text=LISA'S%20CYBER%20LAB&fontSize=38&fontColor=FFD6F2&fontAlignY=38&desc=curiosity%20%2B%20code%20%2B%20cybersecurity&descAlignY=59&descSize=14" width="100%" alt="Lisa's Cyber Lab"/>
 
 ### `> hello, world!` ♡
 
