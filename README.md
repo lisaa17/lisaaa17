@@ -53,15 +53,15 @@ I'm learning through hands-on experiments, academic research, and practical proj
 
 <sub>WIRELESS SIGNAL ANALYSIS</sub>
 
-Exploring SDR-based wireless signal monitoring with sensor agents and a centralized dashboard.
+Exploring an SDR-based testbed for monitoring and analyzing wireless signal characteristics using sensor agents and a centralized dashboard.
 
 ![SDR](https://img.shields.io/badge/SDR-8B5CF6?style=flat-square)
-![Wireless](https://img.shields.io/badge/Wireless-111426?style=flat-square&logo=wifi&logoColor=FF8BCB)
+![RTL-SDR](https://img.shields.io/badge/RTL--SDR-111426?style=flat-square&logo=radio&logoColor=FF8BCB)
+![HackRF](https://img.shields.io/badge/HackRF-111426?style=flat-square&logoColor=FF8BCB)
 
-**Status:** Research / Testbed
+**Status:** Research / Testbed Development
 
-<!-- Replace # with the actual repository URL -->
-<a href="#">↗ Explore repository</a>
+[↗ Explore repository](https://github.com/milisdad/Ji-Tu)
 
 </td>
 <td width="50%" valign="top">
@@ -70,15 +70,15 @@ Exploring SDR-based wireless signal monitoring with sensor agents and a centrali
 
 <sub>SECURITY MONITORING</sub>
 
-Building a honeypot environment to observe connection activity and prepare logs for analysis.
+Developing a honeypot environment to observe connection activity, collect security logs, and prepare data for analysis and visualization.
 
 ![OpenCanary](https://img.shields.io/badge/OpenCanary-8B5CF6?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-111426?style=flat-square&logo=linux&logoColor=FF8BCB)
+![Monitoring](https://img.shields.io/badge/Log_Monitoring-111426?style=flat-square&logo=grafana&logoColor=FF8BCB)
 
-**Status:** Development
+**Status:** Development / Monitoring
 
-<!-- Replace # with the actual repository URL -->
-<a href="#">↗ Explore repository</a>
+[↗ Explore repository](https://github.com/lisaa17/honeypot-opencanary)
 
 </td>
 </tr>
@@ -89,15 +89,14 @@ Building a honeypot environment to observe connection activity and prepare logs 
 
 <sub>WIRELESS SECURITY EXPERIMENT</sub>
 
-A Raspberry Pi Pico W adaptation explored as a practical wireless security learning project.
+A Raspberry Pi Pico W adaptation explored as a hands-on learning project in wireless security and automation concepts.
 
-![Pico W](https://img.shields.io/badge/Pico_W-8B5CF6?style=flat-square)
+![Pico W](https://img.shields.io/badge/Raspberry_Pi_Pico_W-8B5CF6?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-111426?style=flat-square&logo=python&logoColor=FF8BCB)
 
-**Status:** Experimental
+**Status:** Experimental Project
 
-<!-- Replace # with the actual repository URL -->
-<a href="#">↗ Explore repository</a>
+[↗ Explore repository](https://github.com/orangmiliter/WipiDuck-NG)
 
 </td>
 <td width="50%" valign="top">
@@ -106,19 +105,24 @@ A Raspberry Pi Pico W adaptation explored as a practical wireless security learn
 
 <sub>OPEN-SOURCE INTELLIGENCE</sub>
 
-Exploring public-source research, investigation workflows, and tools for digital analysis.
+Exploring publicly available information, research workflows, and investigation tools for digital analysis.
 
 ![OSINT](https://img.shields.io/badge/OSINT-8B5CF6?style=flat-square)
 ![Research](https://img.shields.io/badge/Research-111426?style=flat-square&logo=bookstack&logoColor=FF8BCB)
 
 **Status:** Learning & Exploration
 
-<!-- Replace # with the actual repository URL -->
-<a href="#">↗ Explore repository</a>
+<sub>Repository link coming soon ♡</sub>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<sub>✦ Learning by building · Documenting the journey · Growing responsibly ♡</sub>
+
+</div>
 
 ## `~/toolkit` ♡
 
