@@ -11,7 +11,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:171326,50:433078,100:8B5CF6&text=Lisa's%20Cyber%20Lab&fontColor=F5F3FF&fontSize=42&fontAlignY=45&desc=curiosity%20%2B%20code%20%2B%20cybersecurity%20%E2%9C%A7&descAlignY=65&descSize=15" width="100%" alt="Lisa's Cyber Lab banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171326,50:433078,100:8B5CF6&height=200&section=header&text=Lisa's%20Cyber%20Lab&fontSize=38&fontColor=F5F3FF&fontAlignY=38&desc=curiosity%20%2B%20code%20%2B%20cybersecurity&descAlignY=58&descSize=14" width="100%" alt="Lisa's Cyber Lab"/>
+
+</div>
 
 ### `hello, world!` ♡
 
