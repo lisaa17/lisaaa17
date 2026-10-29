@@ -43,66 +43,82 @@ I'm learning through hands-on experiments, academic research, and practical proj
 
 ## `~/featured-projects` ✦
 
+## `~/featured-projects` <sub>✦ selected experiments</sub>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📡 Ji-Tu / SIGINT-SDR
+<h3>📡 Ji-Tu / SIGINT-SDR</h3>
 
-**Wireless Signal Monitoring & Analysis**
+<sub>WIRELESS SIGNAL ANALYSIS</sub>
 
-Exploring an SDR-based testbed for monitoring and analyzing wireless signal characteristics through sensor agents and a centralized dashboard.
+Exploring SDR-based wireless signal monitoring with sensor agents and a centralized dashboard.
 
-`RTL-SDR` `HackRF` `Ubertooth` `SDR`
+![SDR](https://img.shields.io/badge/SDR-8B5CF6?style=flat-square)
+![Wireless](https://img.shields.io/badge/Wireless-111426?style=flat-square&logo=wifi&logoColor=FF8BCB)
 
-<sub>◈ Research / Testbed Development</sub>
+**Status:** Research / Testbed
+
+<!-- Replace # with the actual repository URL -->
+<a href="#">↗ Explore repository</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🐝 OpenCanary Honeypot
+<h3>🐝 OpenCanary Honeypot</h3>
 
-**Security Monitoring & Log Analysis**
+<sub>SECURITY MONITORING</sub>
 
-Developing a honeypot environment to observe connection activity, collect security logs, and prepare data for analysis and visualization.
+Building a honeypot environment to observe connection activity and prepare logs for analysis.
 
-`OpenCanary` `Linux` `Grafana`
+![OpenCanary](https://img.shields.io/badge/OpenCanary-8B5CF6?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-111426?style=flat-square&logo=linux&logoColor=FF8BCB)
 
-<sub>◈ Development / Monitoring</sub>
+**Status:** Development
+
+<!-- Replace # with the actual repository URL -->
+<a href="#">↗ Explore repository</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🦆 WiPiDuck-NG
+<h3>🦆 WiPiDuck-NG</h3>
 
-**Experimental Wireless Security Project**
+<sub>WIRELESS SECURITY EXPERIMENT</sub>
 
-A Raspberry Pi Pico W adaptation inspired by wireless security automation concepts, explored as a practical learning project.
+A Raspberry Pi Pico W adaptation explored as a practical wireless security learning project.
 
-`Raspberry Pi Pico W` `Python` `Wireless`
+![Pico W](https://img.shields.io/badge/Pico_W-8B5CF6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-111426?style=flat-square&logo=python&logoColor=FF8BCB)
 
-<sub>◈ Experimental Project</sub>
+**Status:** Experimental
+
+<!-- Replace # with the actual repository URL -->
+<a href="#">↗ Explore repository</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔎 OSINT Research
+<h3>🔎 OSINT Research</h3>
 
-**Open-Source Intelligence**
+<sub>OPEN-SOURCE INTELLIGENCE</sub>
 
-Exploring public-source research, investigation workflows, and tools for information gathering and digital analysis.
+Exploring public-source research, investigation workflows, and tools for digital analysis.
 
-`OSINT` `Maltego` `Research`
+![OSINT](https://img.shields.io/badge/OSINT-8B5CF6?style=flat-square)
+![Research](https://img.shields.io/badge/Research-111426?style=flat-square&logo=bookstack&logoColor=FF8BCB)
 
-<sub>◈ Learning & Exploration</sub>
+**Status:** Learning & Exploration
+
+<!-- Replace # with the actual repository URL -->
+<a href="#">↗ Explore repository</a>
 
 </td>
 </tr>
 </table>
-
-*Project descriptions reflect my current learning and development work. Repository links will be added as projects are published.*
 
 ## `~/toolkit` ♡
 
