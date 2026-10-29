@@ -1,6 +1,18 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:080B18,40:17102D,70:5B174F,100:FF4FA3&text=LISA'S%20CYBER%20LAB&fontSize=38&fontColor=FFD6F2&fontAlignY=38&desc=curiosity%20%2B%20code%20%2B%20cybersecurity&descAlignY=59&descSize=14" width="100%" alt="Lisa's Cyber Lab"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=900&color=FF79C6&center=true&vCenter=true&width=600&lines=%3E+welcome+to+my+cyber+lab;%3E+explore+%E2%80%A2+build+%E2%80%A2+secure;%3E+small+steps%2C+big+dreams+%E2%99%A1" alt="Cyber lab terminal animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+`🖤 MIDNIGHT NAVY` · `💗 NEON PINK` · `💜 CYBER PURPLE`
+
+*୨୧ learning to make the digital world a little safer ୨୧*
+
+</div>
 
 ### `> hello, world!` ♡
 
