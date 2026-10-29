@@ -1,38 +1,32 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,40:17102D,75:702050,100:FF4FA3&height=220&section=header&text=LISA%27S%20CYBER%20LAB&fontSize=38&fontColor=FFD6F2&fontAlignY=38&desc=CURIOUS%20MIND%20%7C%20CYBER%20SECURITY%20%7C%20SDR&descAlignY=58&descSize=13" width="100%" alt="Lisa's Cyber Lab"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:080B18,35:21102F,70:8B1D70,100:FF4FA3&text=LISA%27S%20CYBER%20LAB&fontSize=38&fontColor=FFD6F2&fontAlignY=38&desc=CURIOUS%20MIND%20%7C%20CYBER%20SECURITY%20%7C%20SDR&descAlignY=58&descSize=13" width="100%" alt="Lisa's Cyber Lab"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=%3E+hello%2C+world!;%3E+explore+%E2%80%A2+build+%E2%80%A2+secure;%3E+small+steps%2C+big+dreams+%E2%99%A1" alt="Cyber terminal animation"/>
 
----
+<br/>
 
-<div align="center">
-
-`🖤 MIDNIGHT NAVY` · `💗 NEON PINK` · `💜 CYBER PURPLE`
-
-*୨୧ learning to make the digital world a little safer ୨୧*
-
-</div>
-
-### `> hello, world!` ♡
+<img src="https://img.shields.io/badge/🖤-MIDNIGHT_NAVY-171020?style=for-the-badge" alt="Midnight Navy"/>
+<img src="https://img.shields.io/badge/💗-NEON_PINK-FF4FA3?style=for-the-badge" alt="Neon Pink"/>
+<img src="https://img.shields.io/badge/💜-CYBER_PURPLE-8B5CF6?style=for-the-badge" alt="Cyber Purple"/>
 
 **Information Technology Student · Cyber Security Enthusiast**
 
-*Learning, building, and exploring — one experiment at a time.*
+*Learning, building, and exploring — one experiment at a time. ♡*
 
-[![GitHub](https://img.shields.io/badge/GitHub-lisaa17-111426?style=for-the-badge&logo=github&logoColor=FF8BCB)](https://github.com/lisaa17)
-[![Cyber Security](https://img.shields.io/badge/Cyber_Security-my_learning_path-8B3D87?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/lisaa17)
-[![Always Learning](https://img.shields.io/badge/Status-Always_Learning-171B30?style=for-the-badge&logo=bookstack&logoColor=FF8BCB)](https://github.com/lisaa17)
+[![GitHub](https://img.shields.io/badge/GitHub-lisaa17-171020?style=for-the-badge&logo=github&logoColor=FF79C6)](https://github.com/lisaa17)
+[![Focus](https://img.shields.io/badge/Focus-Cyber_Security-8B1D70?style=for-the-badge&logo=hackthebox&logoColor=FFFFFF)](https://github.com/lisaa17)
+[![Status](https://img.shields.io/badge/Status-Always_Learning-171020?style=for-the-badge&logo=bookstack&logoColor=FF79C6)](https://github.com/lisaa17)
 
 </div>
 
 ---
 
-## `~/about-me` ♡
+## `~/about-me` <sub>♡</sub>
 
-Hi, I'm Lisa! A curious Information Technology student exploring the world of **Cyber Security, wireless technology, networking, and OSINT**.
+Hi, I'm Lisa! I'm an Information Technology student interested in **Cyber Security, wireless technologies, networking, and Open-Source Intelligence (OSINT)**.
 
-I'm learning through hands-on experiments, academic research, and practical projects. This is my little corner of GitHub where I document my progress, build things, and learn from every challenge.
+I enjoy learning by experimenting, exploring security tools, and connecting academic concepts with practical projects. This GitHub profile is my little cyber lab — a place to document what I'm learning, share my work, and grow step by step.
 
 ```bash
 ┌──(lisa㉿cyber-lab)-[~]
@@ -40,20 +34,23 @@ I'm learning through hands-on experiments, academic research, and practical proj
 
   > explore systems
   > learn cybersecurity
-  > build practical projects
+  > experiment with wireless technology
+  > analyze security logs
   > document the journey
-  > grow a little every day ♡
+  > keep learning and stay curious ♡
 ```
 
-- 🛡️ **Cyber Security:** Exploring security tools and defensive practices.
-- 📡 **Wireless & SDR:** Learning about wireless signals and SDR-based monitoring.
-- 🔎 **OSINT:** Practicing research using publicly available information.
-- 🐧 **Linux & Networking:** Strengthening my technical fundamentals.
-- 🧪 **Research:** Connecting academic concepts with practical experiments.
+### `~/areas-of-interest`
 
-> `01000011 01110101 01110010 01101001 01101111 01110101 01110011` — forever learning. ♡
+- 🛡️ **Cyber Security** — security monitoring, defensive security, and hands-on experiments.
+- 📡 **Wireless & SDR** — learning about wireless signals and SDR-based monitoring.
+- 🔎 **OSINT** — public-source research and information-gathering workflows.
+- 🐧 **Linux & Networking** — developing practical technical fundamentals.
+- 🧪 **Research & Development** — exploring technical ideas through academic projects.
 
-## <img src="https://img.shields.io/badge/♥-FF4FA3?style=flat-square" height="20" /> `~/featured-projects` <img src="https://img.shields.io/badge/✦-C084FC?style=flat-square" height="20" /> <sub>selected experiments</sub>
+---
+
+## `~/featured-projects` <sub>✦ selected experiments</sub>
 
 <table>
 <tr>
@@ -61,13 +58,13 @@ I'm learning through hands-on experiments, academic research, and practical proj
 
 <h3>💗 📡 Ji-Tu / SIGINT-SDR</h3>
 
-<img src="https://img.shields.io/badge/WIRELESS_SIGNAL_ANALYSIS-FF4FA3?style=flat-square&labelColor=171020" />
+<img src="https://img.shields.io/badge/WIRELESS_SIGNAL_ANALYSIS-FF4FA3?style=flat-square&labelColor=171020" alt="Wireless signal analysis"/>
 
 Exploring an SDR-based testbed for monitoring and analyzing wireless signal characteristics using sensor agents and a centralized dashboard.
 
 ![SDR](https://img.shields.io/badge/SDR-FF4FA3?style=flat-square&labelColor=171020)
-![RTL-SDR](https://img.shields.io/badge/RTL--SDR-302044?style=flat-square&logoColor=FF8BCB)
-![HackRF](https://img.shields.io/badge/HackRF-302044?style=flat-square&logoColor=FF8BCB)
+![RTL-SDR](https://img.shields.io/badge/RTL--SDR-302044?style=flat-square)
+![HackRF](https://img.shields.io/badge/HackRF-302044?style=flat-square)
 
 **Status:** Research / Testbed Development
 
@@ -78,13 +75,13 @@ Exploring an SDR-based testbed for monitoring and analyzing wireless signal char
 
 <h3>💗 🐝 OpenCanary Honeypot</h3>
 
-<img src="https://img.shields.io/badge/SECURITY_MONITORING-FF4FA3?style=flat-square&labelColor=171020" />
+<img src="https://img.shields.io/badge/SECURITY_MONITORING-FF4FA3?style=flat-square&labelColor=171020" alt="Security monitoring"/>
 
 Developing a honeypot environment to observe connection activity, collect security logs, and prepare data for analysis and visualization.
 
 ![OpenCanary](https://img.shields.io/badge/OpenCanary-FF4FA3?style=flat-square&labelColor=171020)
 ![Linux](https://img.shields.io/badge/Linux-302044?style=flat-square&logo=linux&logoColor=FF8BCB)
-![Monitoring](https://img.shields.io/badge/Log_Monitoring-302044?style=flat-square&logo=grafana&logoColor=FF8BCB)
+![Grafana](https://img.shields.io/badge/Grafana-302044?style=flat-square&logo=grafana&logoColor=FF8BCB)
 
 **Status:** Development / Monitoring
 
@@ -97,7 +94,7 @@ Developing a honeypot environment to observe connection activity, collect securi
 
 <h3>💗 🦆 WiPiDuck-NG</h3>
 
-<img src="https://img.shields.io/badge/WIRELESS_SECURITY_EXPERIMENT-FF4FA3?style=flat-square&labelColor=171020" />
+<img src="https://img.shields.io/badge/WIRELESS_SECURITY_EXPERIMENT-FF4FA3?style=flat-square&labelColor=171020" alt="Wireless security experiment"/>
 
 A Raspberry Pi Pico W adaptation explored as a hands-on learning project in wireless security and automation concepts.
 
@@ -113,7 +110,7 @@ A Raspberry Pi Pico W adaptation explored as a hands-on learning project in wire
 
 <h3>💗 🔎 OSINT Research</h3>
 
-<img src="https://img.shields.io/badge/OPEN_SOURCE_INTELLIGENCE-FF4FA3?style=flat-square&labelColor=171020" />
+<img src="https://img.shields.io/badge/OPEN_SOURCE_INTELLIGENCE-FF4FA3?style=flat-square&labelColor=171020" alt="Open-source intelligence"/>
 
 Exploring publicly available information, research workflows, and investigation tools for digital analysis.
 
@@ -130,56 +127,70 @@ Exploring publicly available information, research workflows, and investigation 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/♥-FF4FA3?style=flat-square" /> **Learning** · **Building** · **Securing the Digital Future** <img src="https://img.shields.io/badge/♥-C084FC?style=flat-square" />
+<sub>✦ Learning by building · Documenting the journey · Growing responsibly ♡</sub>
 
 </div>
 
-## `~/toolkit` ♡
+---
+
+## `~/toolkit` <sub>♡ tools I'm exploring</sub>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111426?style=for-the-badge&logo=python&logoColor=FF8BCB)
-![Linux](https://img.shields.io/badge/Linux-111426?style=for-the-badge&logo=linux&logoColor=F9A8D4)
-![Git](https://img.shields.io/badge/Git-111426?style=for-the-badge&logo=git&logoColor=FF8BCB)
-![Networking](https://img.shields.io/badge/Networking-111426?style=for-the-badge&logo=cisco&logoColor=C4B5FD)
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-111426?style=for-the-badge&logo=hackthebox&logoColor=FF8BCB)
-![OSINT](https://img.shields.io/badge/OSINT-111426?style=for-the-badge&logo=search&logoColor=C4B5FD)
+![Python](https://img.shields.io/badge/Python-171020?style=for-the-badge&logo=python&logoColor=FF79C6)
+![Linux](https://img.shields.io/badge/Linux-171020?style=for-the-badge&logo=linux&logoColor=FF79C6)
+![Git](https://img.shields.io/badge/Git-171020?style=for-the-badge&logo=git&logoColor=FF79C6)
+![Networking](https://img.shields.io/badge/Networking-302044?style=for-the-badge&logo=cisco&logoColor=FFB6E1)
+![SDR](https://img.shields.io/badge/SDR-302044?style=for-the-badge&logoColor=FFB6E1)
+![OSINT](https://img.shields.io/badge/OSINT-171020?style=for-the-badge&logoColor=FF79C6)
 
 </div>
 
-<sub>These badges represent areas I am exploring and learning, not claims of expert-level proficiency.</sub>
+<sub>These represent areas and tools I am exploring, not a claim of expert-level proficiency.</sub>
 
-## `~/learning-log` ✧
+---
+
+## `~/learning-log` <sub>✧ progress in motion</sub>
 
 - [ ] Improve Python scripting for security-related tasks.
 - [ ] Strengthen Linux and networking fundamentals.
-- [ ] Develop the SDR testbed and document experiments.
+- [ ] Develop and document the SDR testbed.
 - [ ] Improve honeypot log analysis and visualization.
 - [ ] Practice structured OSINT research.
-- [ ] Document projects with clear, reproducible steps.
+- [ ] Write clear and reproducible project documentation.
 
-## `~/github-stats` ♡
+*Small steps still count. Every experiment is a chance to learn. ♡*
+
+---
+
+## `~/github-stats` <sub>💗 digital footprint</sub>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lisaa17&show_icons=true&hide_border=true&bg_color=0D1020&title_color=FF8BCB&icon_color=C4B5FD&text_color=E5DDF2" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lisaa17&show_icons=true&hide_border=true&bg_color=0D1020&title_color=FF79C6&icon_color=FF4FA3&text_color=E9DDF2&ring_color=FF4FA3" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisaa17&layout=compact&hide_border=true&bg_color=0D1020&title_color=FF8BCB&text_color=E5DDF2" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisaa17&layout=compact&hide_border=true&bg_color=0D1020&title_color=FF79C6&text_color=E9DDF2" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=lisaa17&hide_border=true&background=0D1020&ring=FF4FA3&fire=FF79C6&currStreakLabel=FF79C6&sideLabels=E9DDF2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B8A9C9" alt="GitHub contribution streak"/>
 
 </div>
 
-<sub>Statistics are provided by an external service and may be unavailable at times.</sub>
+<sub>Statistics are generated by external services. Availability and displayed values may vary.</sub>
 
-## `~/connect` ♡
+---
+
+## `~/connect` <sub>♡ let's connect</sub>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Explore_my_work-111426?style=for-the-badge&logo=github&logoColor=FF8BCB)](https://github.com/lisaa17)
+[![GitHub](https://img.shields.io/badge/Explore_my_work-171020?style=for-the-badge&logo=github&logoColor=FF79C6)](https://github.com/lisaa17)
 
-<!-- Add your LinkedIn URL and badge when ready. -->
+*“Stay curious. Build responsibly. Keep glowing.”*
 
-*“Stay curious. Build responsibly. Keep glowing.”* ♡
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF4FA3,45:702050,100:080B18" width="100%" alt="Cyber pink footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF5CB8,50:54245F,100:080B18" width="100%" alt="Pink and navy footer"/>
+<sub>Made with curiosity, code, and a little pink magic. 💗🖤</sub>
 
 </div>
